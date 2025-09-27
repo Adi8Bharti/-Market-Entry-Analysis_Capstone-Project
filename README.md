@@ -1,38 +1,37 @@
-ABG Motors Market Analysis Capstone Project
-Description
-This project analyzes customer demographics and purchase behavior for ABG Motors in the Indian and Japanese markets. The analysis uses real-world datasets and Tableau visualizations to identify market segments, income distributions, and purchasing trends. Insights from this project support strategic decisions for market entry and expansion.
+🚗 ABG Motors Market Analysis Capstone Project 📊
+🔍 Project Overview
+This project analyzes customer demographics and purchase behavior for ABG Motors in India and Japan. Using real-world datasets and Tableau visualizations, it identifies key market segments, income distribution, and purchasing trends to guide ABG Motors’ market entry and sales strategy.
 
-Table of Contents
-Project Overview
+📈 Key Features
+Customer analysis by age, gender, income, and purchase behavior 👥💰
 
-Data Description
+Market comparison between Indian 🇮🇳 and Japanese 🇯🇵 customers
 
-Technologies Used
+Visualizations using bar charts, stacked bars, treemaps, and bubble charts 📊
 
-Usage
+Actionable insights to support decision-making for expansion
 
-Contributing
+🛠 Technologies Used
+Data Analysis: Excel 📑
 
-License
+Visualization: Tableau 📊
 
-Project Overview
-A comparative market analysis between India and Japan using customer data to reveal opportunities for ABG Motors. The project uses Tableau to create interactive dashboards visualizing key metrics like gender, age, income, and purchase behavior.
+Repository & Documentation: GitHub 🐙
 
-Data Description
-Indian Dataset: Demographic and income data without purchase info.
+🗂 Data Description
+Indian Market Dataset: Demographics & income data (no purchase info)
 
-Japanese Dataset: Customer info including actual purchase records.
+Japanese Market Dataset: Demographics and purchase history
 
-Technologies Used
-Microsoft Excel for data cleaning and basic analysis
+🎯 Usage
+Open the included Tableau workbook for interactive dashboards
 
-Tableau for data visualization
+View exported visual snapshots for quick insights
 
-GitHub for source code and project documentation management
+Explore datasets for detailed analysis
 
-Usage
-Open the provided Tableau workbook to explore dashboards interactively.
+📸 Snapshots
+![Indian Market Snapshot](
 
-Review the included datasets for data context.
-
-PNG images provide snapshots of key visual insights.
+![Japanese Market Snapshot]( 🤝 Contributing
+Contributions welcome. Please submit issues or pull requests.
